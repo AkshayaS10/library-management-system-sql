@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Library Management System – SQL Database Project
 
 ## Overview
@@ -39,3 +40,7 @@ The goal is to showcase **real-world database management skills** along with **d
 ---
 
 ## Project Structure
+=======
+# library-management-system-sql
+SQL Project: Library Management System
+>>>>>>> 12b5d84409db47f95674492b45665caa15baaea4
