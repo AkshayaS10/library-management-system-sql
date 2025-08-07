@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Library Management System – SQL Database Project
 
 ## Overview
@@ -25,7 +25,6 @@ The goal is to showcase **real-world database management skills** along with **d
 - **Power BI / Tableau** – Data visualization (optional enhancement)  
 - **Draw.io / Lucidchart** – ERD diagram design  
 
----
 
 ## Database Schema
 **Entities:**
@@ -36,11 +35,11 @@ The goal is to showcase **real-world database management skills** along with **d
 - **Issued_Status** – Book issuance records  
 - **Return_Status** – Book return records  
 
-!![ERD Diagram](ERD_Diagram.png)
----
+![ERD Diagram](ERD_Diagram.png)
+
 
 ## Project Structure
-=======
+
 # library-management-system-sql
 SQL Project: Library Management System
 >>>>>>> 12b5d84409db47f95674492b45665caa15baaea4
