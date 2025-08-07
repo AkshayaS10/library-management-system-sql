@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Library Management System – SQL Database Project
 
 ## Overview
@@ -37,7 +37,7 @@ The goal is to showcase **real-world database management skills** along with **d
 - **Return_Status** – Book return records  
 
 !![ERD Diagram](ERD_Diagram.png)
----
+
 
 ## Project Structure
 =======
