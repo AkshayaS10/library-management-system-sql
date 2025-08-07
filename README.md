@@ -35,7 +35,7 @@ The goal is to showcase **real-world database management skills** along with **d
 - **Issued_Status** – Book issuance records  
 - **Return_Status** – Book return records  
 
-[ERD Diagram](ERD_Diagram.png)
+![ERD Diagram](ERD_Diagram.png)
 
 
 ## Project Structure
